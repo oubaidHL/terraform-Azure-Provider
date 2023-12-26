@@ -1,0 +1,25 @@
+{
+  "appId": "fb7069a7-db25-4505-8046-f0bdd81f564f",
+  "displayName": "terraformSP",
+  "password": "_tE8Q~fsgihxASewY_QL3iBCaYqs2SYzlLKdAcCg",
+  "tenant": "d1428d77-98e8-4a88-b33c-c352a8d8e679"
+}
+{
+  "environmentName": "AzureCloud",
+  "homeTenantId": "d1428d77-98e8-4a88-b33c-c352a8d8e679",
+  "id": "b3f3ab09-e3af-4be8-ba06-df67f19d30a8",
+  "isDefault": true,
+  "managedByTenants": [],
+  "name": "Azure for Students",
+  "state": "Enabled",
+  "tenantId": "d1428d77-98e8-4a88-b33c-c352a8d8e679",
+  "user": {
+    "name": "oubaid.hlaimi@esprit.tn",
+    "type": "user"
+  }
+}
+
+$Env:ARM_SUBSCRIPTION_ID="b3f3ab09-e3af-4be8-ba06-df67f19d30a8"
+$Env:ARM_TENANT_ID="d1428d77-98e8-4a88-b33c-c352a8d8e679"
+$Env:ARM_CLIENT_ID="fb7069a7-db25-4505-8046-f0bdd81f564f"
+$Env:ARM_CLIENT_SECRET="_tE8Q~fsgihxASewY_QL3iBCaYqs2SYzlLKdAcCg"
